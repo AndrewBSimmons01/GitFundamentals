@@ -12,3 +12,7 @@ Before doing so, you'll need to use the `-u` or or `--set-upstream` flag. This c
 git push -u origin main
 ```
 After this command is used, you can just use `git push` and it will function the same way.
+## Resouces
+- [Git Push Documentation](https://git-scm.com/docs/git-push)
+---
+[Back to home](../Readme.md)
