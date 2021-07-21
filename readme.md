@@ -4,16 +4,18 @@ Here is a growing collection of resources and helpful commands to know when work
 ## Git Commands
 - [Git Config](./commands/config.md)
 - [Git Init](./commands/init.md)
-- [git Add](./commands/add.md)
+- [Git Add](./commands/add.md)
 - [Git Commit](./commands/commit.md)
 - [Git Status](./commands/status.md)
 - [Git Push](./commands/push.md)
-- [Git Remote](./remote.md)
-- [Git Pull](./pull.md)
+- [Git Remote](./Remote.md)
+- [Git Pull](./Pull.md)
 - [Git Clone](./clone.md)
 
 ## External Resources
 - [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
 - [Git Documentation](https://git-scm.com/docs)
-- [Gitignore Documentation](https://git-scm.com/docs/gitignore)
+- [Git ignore Documentation](https://git-scm.com/docs/gitignore)
 - [Git Branches](https://git-scm.com/book/en/v2/Git-Branching-Branches-in-a-Nutshell)
+
+
