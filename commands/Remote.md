@@ -1,7 +1,6 @@
 # Git Remote
 - When working with git, a **remote** is any git repository that is not on the machine you're working on. The counterpart to this is a **local**, or the machine that is being developed on.
-- Take GitHub for example, While git is the technology that allows you to create local repositories, GitHub is the site that will host remote repositories. One sotred remotely, you can bring that repository back down or share it with others.
-
+- Take GitHub for example, While git is the technology that allows you to create local repositories, GitHub is the site that will host remote repositories. Once stored remotely, you can bring that repository back down or share it with others.
 **NOTE**: While the repositories (local and remote) are related and track the same project, they can have different states if changes are not shared between the two.
 
 ### Adding a remote
@@ -18,7 +17,7 @@ git remote remove origin
 ```
 
 ## Resouces
-- [Git Remote Documentation](https://git-dcm.com/docs/git-remote)
+- [Git Remote Documentation](https://git-scm.com/docs/git-remote)
 ---
 [Back to home](../Readme.md)
 

@@ -1,6 +1,6 @@
 # Git Init
-- The `Git init` command is used to create and empty Git repository.
--If you wanted to create a new directory and initialize a Git repository, you can do so with the following commands:
+- The `Git Init` command is used to create an empty git repository.
+- If you wanted to create a new directory and initialize a Git repository, you can do so with the following commands:
 ```
 mkdir NewDirectory
 cd NewDirectory

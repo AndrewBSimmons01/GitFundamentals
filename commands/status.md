@@ -1,4 +1,4 @@
-# git status
+# Git Status
 
 - The command `git status` is extremely helpful when it comes to checking on the, you guessed it, status of your repository.
 

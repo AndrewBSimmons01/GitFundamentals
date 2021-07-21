@@ -8,12 +8,12 @@ Here is a growing collection of resources and helpful commands to know when work
 - [Git Commit](./commands/commit.md)
 - [Git Status](./commands/status.md)
 - [Git Push](./commands/push.md)
-- [Git Remote](./remote.md)
-- [Git Pull](./pull.md)
+- [Git Remote](./Remote.md)
+- [Git Pull](./Pull.md)
 - [Git Clone](./clone.md)
 
 ## External Resources
-- [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/ (Links to an external site.))
-- [git Documentation](https://git-scm.com/docs (Links to an external site.))
-- [gitignore Documentation](https://git-scm.com/docs/gitignore (Links to an external site.))
-- [git Branches](https://git-scm.com/book/en/v2/Git-Branching-Branches-in-a-Nutshell (Links to an external site.))
+- [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
+- [Git Documentation](https://git-scm.com/docs)
+- [Gitignore Documentation](https://git-scm.com/docs/gitignore)
+- [Git Branches](https://git-scm.com/book/en/v2/Git-Branching-Branches-in-a-Nutshell)

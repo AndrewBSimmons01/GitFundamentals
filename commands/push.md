@@ -6,7 +6,7 @@ git push origin main
 ```
 - This command will push the **MAIN** branch to the remote called **ORIGIN**. This means any commits that are in your local will be **PUSHED** to the remote.
 ### Upstream Tracking
-- Instead of including the name of the remote and the branch you're on every time, you can set up local branchs to track and upstream branch. This means you can tell the branch to push to its assigned upstrwam remote branch by using the `git push` command. 
+- Instead of including the name of the remote and the branch you're on every time, you can set up local branches to track an upstream branch. This means you can tell the branch to push to its assigned upstream remote branch by using the `git push` command. 
 Before doing so, you'll need to use the `-u` or or `--set-upstream` flag. This can be done on any `git push`.
 ```
 git push -u origin main
