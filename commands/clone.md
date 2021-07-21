@@ -15,4 +15,4 @@ git clone https://github.com/ElevenfiftyAcademy/TerminalDungeon.git
 
 ---
 
-[Back to home](../.md)readme
+[Back to home](../readme.md)
