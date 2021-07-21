@@ -9,8 +9,8 @@ Here is a growing collection of resources and helpful commands to know when work
 - [Git Status](./commands/status.md)
 - [Git Push](./commands/push.md)
 - [Git Remote](./commands/remote.md)
-- [Git Pull](./commands/pull.md)
 - [Git Clone](./commands/clone.md)
+- [Git Pull](./commands/pull.md)
 
 ## External Resources
 - [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
