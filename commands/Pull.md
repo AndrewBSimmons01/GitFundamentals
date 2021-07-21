@@ -16,6 +16,6 @@ git pull origin main
 
 ---
 
-[Back to home](../Readme.md)
+[Back to home](../readme.md)
 
  

@@ -9,7 +9,7 @@ git config --global user.email andrew.b.simmons01@gmail.com
 - For more information, view the [First Time Git Setup](https://git-scm.com/book/en/v2/getting-started-first-time-git-setup) documentation.
 
 ## Resources
-- [Git Config Documentation](https://git-scm.com/git-config)
+- [Git Config Documentation](https://git-scm.com/docs/git-config)
 
 [Back to home](../readme.md)
 

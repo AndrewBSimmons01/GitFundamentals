@@ -13,4 +13,4 @@ git init
 ## Resources
 - [Git Init Documentation](https://git-scm.com/docs/git-init)
 ---
-[Back to home](../Readme.md)
+[Back to home](../readme.md)

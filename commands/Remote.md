@@ -19,5 +19,5 @@ git remote remove origin
 ## Resouces
 - [Git Remote Documentation](https://git-scm.com/docs/git-remote)
 ---
-[Back to home](../Readme.md)
+[Back to home](../readme.md)
 
