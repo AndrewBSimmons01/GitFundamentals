@@ -4,3 +4,7 @@ Here is a growing collection of resources and helpful commands to know when work
 ## Git Commands
 - [Git Config](./commands/config.md)
 - [Git Init](./commands/Init.md)
+- [git Add](./commands/add.md)
+- [Git Commit](./commands/commit.md)
+- [Git Status](./commands/status.md)
+- [Git Push](./commands/push.md)
